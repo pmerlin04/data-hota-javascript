@@ -1,0 +1,15 @@
+header{
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+input[type=button]{
+    margin-top: 10px;
+    width: 120px;
+    height: 90px;
+}
+
+#res{
+    margin-top: 10px;
+    font-size: 20px;
+}
